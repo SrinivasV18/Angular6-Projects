@@ -1,0 +1,10 @@
+{
+  "dailyExpenditures": [
+    {
+      "id": 1,
+      "date": "09-11-2018",
+      "spentOnDesc": "Bike Repair",
+      "spentMoney": 1500
+    }
+  ]
+}
